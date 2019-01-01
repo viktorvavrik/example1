@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     protected void onPause(Bundle savedInstanceState) {
-        
+
     }
 }
